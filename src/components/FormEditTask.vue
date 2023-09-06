@@ -18,7 +18,7 @@
                         </option>
                     </select>
                 </div>
-                <div v-if="originalTask.nome != '' ">
+                <div v-if="selectedTask.nome != '' ">
 
                 
                 <div class="row form-floating">

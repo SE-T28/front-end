@@ -27,7 +27,7 @@
 </template>
 
 <script>
-import User from './../../../app/models/utente.js'
+import User from './../../../back-end/models/utente.js'
 import {login} from '../api/users/login.js'
 
     export default{
